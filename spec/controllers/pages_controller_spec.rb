@@ -32,7 +32,6 @@ describe PagesController do
       response.should have_title("Ruby on Rails Tutorial | Contact")
     end
 
-
   end
 
   describe "GET 'about'" do
